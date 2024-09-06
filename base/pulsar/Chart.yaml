@@ -1,0 +1,10 @@
+apiVersion: v3
+dependencies:
+- name: pulsar
+  repository: https://pulsar.apache.org/charts
+  version: 3.5.0
+name: pulsar
+description: A helm chart to deploy pulsar application
+type: application
+version: 0.0.0
+appVersion: "0.0.0"
